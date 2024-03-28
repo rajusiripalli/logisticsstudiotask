@@ -77,6 +77,7 @@
     flex: 0 0 auto;
     padding: .5rem;
     width: 100%;
+    margin-top: 20px;
 }
 .labelNames{
     color: #0a0a0a!important;
@@ -148,6 +149,7 @@
     width: 100%;
     justify-content: center;
     align-items: center;
+    margin-top: 30px;
     
 }
 .loginBtn{
